@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sanzina67shorna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ko5NG9LlDBGGOc30FX9bPOoia--Zvvtj/view](https://drive.google.com/file/d/1Ko5NG9LlDBGGOc30FX9bPOoia--Zvvtj/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1LlzXLUStR3TLk4J_uRj4VMwJMn75xOzP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
