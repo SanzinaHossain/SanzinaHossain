@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN,JavaScript**
 
-- 📫 How to reach me **sanzina67shorna@gmail.com**
+- 📫 How to reach me **sanzina67hossain@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1LlzXLUStR3TLk4J_uRj4VMwJMn75xOzP/view?usp=sharing)
 
