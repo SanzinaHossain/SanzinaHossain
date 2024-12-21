@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzinahossain&label=Profile%20views&color=0e75b6&style=flat" alt="sanzinahossain" /> </p>
 
-- 🔭 I’m currently working on [FoodMood Service]
+- 🔭 I’m currently working on [TypeScript-Task]
 
-- 🌱 I’m currently learning **Redux, NextJs, React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sanzina-portfolio.netlify.app/](https://sanzina-portfolio.netlify.app/)
 
