@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzinahossain&label=Profile%20views&color=0e75b6&style=flat" alt="sanzinahossain" /> </p>
 
-- 🔭 I’m currently working on [TypeScript-Task]
+- 🔭 I’m currently working on [PostgreSQL+React]
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **PostgreSQL, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://sanzina-portfolio.netlify.app/](https://sanzina-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN,JavaScript**
+- 💬 Ask me about **MERN,JavaScript,Node.Js**
 
 - 📫 How to reach me **sanzina67hossain@gmail.com**
 
