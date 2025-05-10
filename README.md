@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanzina Hossain</h1>
-<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
+<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzinahossain&label=Profile%20views&color=0e75b6&style=flat" alt="sanzinahossain" /> </p>
 
 - 🔭 I’m currently working on [PostgreSQL+React]
