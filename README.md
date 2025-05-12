@@ -15,5 +15,5 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1LlzXLUStR3TLk4J_uRj4VMwJMn75xOzP/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzinahossain&" alt="sanzinahossain" /></p>
+
 
