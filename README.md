@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sanzina-portfolio.netlify.app/](https://sanzina-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanzinahossain.netlify.app/)
 
 - 💬 Ask me about **MERN,JavaScript,Node.Js**
 
